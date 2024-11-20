@@ -6,6 +6,4 @@ import com.maltepuro.lagerlog.model.Estoque;
 
 public interface EstoqueRepository extends JpaRepository<Estoque, Long> {
 
-
 }
-
